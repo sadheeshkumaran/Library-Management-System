@@ -22,8 +22,11 @@ A simple, console-based Library Management System written in Java. This project 
 text
 LibraryManagementSystem/
 │
+
 ├── Book.java      // Book class (model)
+
 ├── Library.java   // Library class (business logic)
+
 └── Main.java      // Main class (user interface)
 
 📝 How to Run
@@ -31,7 +34,7 @@ LibraryManagementSystem/
     Clone the Repository
 
 bash
-git clone https://github.com/yourusername/LibraryManagementSystem.git
+git clone https://github.com/sadheeshkumaran/LibraryManagementSystem.git
 cd LibraryManagementSystem
 
 Compile the Code
@@ -66,11 +69,6 @@ Book added: The Great Gatsby
     Java (JDK 8+)
 
     Standard Java Libraries
-
-👨‍💻 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-📄 License
 
 This project is licensed under the MIT License.
 🙏 Acknowledgments
